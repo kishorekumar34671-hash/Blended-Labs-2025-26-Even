@@ -104,21 +104,22 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Insert Screenshot Here)
 
-<img width="1287" height="748" alt="lab2 s1" src="https://github.com/user-attachments/assets/a44e7d82-83d6-4adf-9684-f4f1a5d0bcba" />
+<img width="1138" height="551" alt="image" src="https://github.com/user-attachments/assets/a7f04b67-e24f-481d-bd1a-9a255607e80f" />
+
 
 
 ### Screenshot 2: EC2 Instance Running
 
 (Insert Screenshot Here)
-<img width="1138" height="552" alt="LAB2 S2" src="https://github.com/user-attachments/assets/f2a67bf0-c89a-4bfc-881f-8c1760fa1b62" />
+<img width="1133" height="542" alt="image" src="https://github.com/user-attachments/assets/a97559ce-92cf-433b-87ff-73347a9d9f11" />
+
 
 
 
 ### Screenshot 3: Web Server Output in Browser
 
 (Insert Screenshot Here)
-
-<img width="1132" height="632" alt="image" src="https://github.com/user-attachments/assets/d8e5ea7d-22f7-4a5e-8014-bca5273790d8" />
+<img width="1907" height="1007" alt="image" src="https://github.com/user-attachments/assets/8560a590-61ad-465f-85b3-2def4cf32d47" />
 
 
 ## Result 
