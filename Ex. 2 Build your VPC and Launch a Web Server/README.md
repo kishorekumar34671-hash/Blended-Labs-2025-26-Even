@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: KISHORE KUMAR B
+* **Register Number**: 212225240073
+* **Date of Submission**: 17-08-26
 
 ---
 
@@ -87,13 +87,16 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. I created a VPC with the CIDR `10.0.0.0/16` and a public subnet `10.0.1.0/24`.
 
----
+2. I attached an Internet Gateway and configured a route table with `0.0.0.0/0` to the IGW.
+
+3. I created a security group allowing SSH (22) and HTTP (80).
+
+4. I launched a `t2.micro` EC2 instance in the public subnet using Amazon Linux 2.
+
+5. I installed Apache, created a simple web page, and accessed it using the instance’s public IP.
+
 
 ## Output Screenshots (Attach 3)
 
@@ -101,19 +104,22 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Insert Screenshot Here)
 
----
+<img width="1287" height="748" alt="lab2 s1" src="https://github.com/user-attachments/assets/a44e7d82-83d6-4adf-9684-f4f1a5d0bcba" />
+
 
 ### Screenshot 2: EC2 Instance Running
 
 (Insert Screenshot Here)
+<img width="1138" height="552" alt="LAB2 S2" src="https://github.com/user-attachments/assets/f2a67bf0-c89a-4bfc-881f-8c1760fa1b62" />
 
----
+
 
 ### Screenshot 3: Web Server Output in Browser
 
 (Insert Screenshot Here)
 
----
+<img width="1132" height="632" alt="image" src="https://github.com/user-attachments/assets/d8e5ea7d-22f7-4a5e-8014-bca5273790d8" />
+
 
 ## Result 
 
