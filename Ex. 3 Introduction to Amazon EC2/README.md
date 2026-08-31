@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: KISHORE KUMAR B
+* **Register Number**: 212225240073
+* **Date of Submission**: 30-08-26
 
 ---
 
@@ -110,7 +110,8 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1918" height="997" alt="EX 3  1 CLOUD" src="https://github.com/user-attachments/assets/14cbb249-3bc1-4412-9c53-97ca1b6350b8" />
+
 
 ---
 
