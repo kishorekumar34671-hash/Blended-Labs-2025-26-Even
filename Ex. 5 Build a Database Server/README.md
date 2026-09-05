@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**:KISHORE KUMAR B
+* **Register Number**:212225240073
+* **Date of Submission**: 05-09-26
 
 ---
 
@@ -82,33 +82,35 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
+1.Launched an EC2 instance and configured the required security group for SSH and database access.
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+2.Connected to the EC2 instance using SSH and installed the required database server software.
 
----
+3.Started and configured the database service, then created a sample database, table, and records.
+
+4.Tested the database connectivity by connecting to the database and executing basic SQL queries.
+
+
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1915" height="1199" alt="EX 5 1" src="https://github.com/user-attachments/assets/5dc6c9d9-502b-40f1-9543-c056fb51f175" />
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="EX5 2" src="https://github.com/user-attachments/assets/78b433d7-604c-4f9f-9e2b-d326ea2430ed" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="EX5 3" src="https://github.com/user-attachments/assets/39977b57-3ff8-437d-a64a-577c414e8422" />
+
 
 ---
 
